@@ -1,0 +1,18 @@
+{
+   "nsu":4564654,
+   "data":"21/07/2020 17:00:00",
+   "valor":450.00,
+   "status":"ACEITO",
+   "modalidadeVenda":"CREDITO",
+   "modalidadePagamentoVenda":"CREDITO_A_VISTA",
+   "parcelas":[
+		{"numero": 1, "status": "PAGO", "valor": 150.00},
+		{"numero": 2, "status": "PAGO", "valor": 150.00},
+		{"numero": 3, "status": "PENDENTE", "valor": 150.00}
+   ],
+   "pontoVenda":{
+      "codigo":1,
+      "nomeFantasia":"EMPRESA LTDA",
+      "cnpj":312131321
+   }
+}
